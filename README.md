@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Neha Hafeez and i am a student at Fatima Jinnah Women University.
+My name is Neha Hafeez, and I’m a student in BS Software Engineering from Fatima Jinnah Women University. I am currently working as a volunteer with IEEE , IEEE Islamabad section SAC, ADAL FOUNDATION and Green Tour Planners.
 <!--
 **Neha-Hafeez/Neha-Hafeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
